@@ -1,0 +1,9 @@
+/target/
+.env
+.env.*
+*.key
+*.pem
+assets/gpt2/model.safetensors
+assets/gpt2/model.safetensors.part
+__pycache__/
+.venv/
