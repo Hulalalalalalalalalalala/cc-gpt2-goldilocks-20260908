@@ -1,0 +1,6 @@
+/target/
+/.cache/
+/.venv/
+__pycache__/
+*.pyc
+/assets/gpt2/model.safetensors

@@ -1,0 +1,22 @@
+{
+  "title": "zkGPT: An Efficient Non-interactive Zero-knowledge Proof Framework for LLM Inference",
+  "authors": [
+    "Wenjie Qu",
+    "Yijun Sun",
+    "Xuanming Liu",
+    "Tao Lu",
+    "Yanpei Guo",
+    "Kai Chen",
+    "Jiaheng Zhang"
+  ],
+  "venue": "34th USENIX Security Symposium (USENIX Security 25)",
+  "year": 2025,
+  "proceedings_pages": "2045-2063",
+  "landing_page": "https://www.usenix.org/conference/usenixsecurity25/presentation/qu-zkgpt",
+  "pdf_url": "https://www.usenix.org/system/files/usenixsecurity25-qu-zkgpt.pdf",
+  "resolved_url": "https://www.usenix.org/system/files/usenixsecurity25-qu-zkgpt.pdf",
+  "retrieved_at": "2026-09-07T16:40:18.228773+00:00",
+  "pdf_sha256": "2acc64d6b27eaed48cd4895aaec1b5cca8acc7473e7ff8015c041c98b9b35ff2",
+  "bytes": 561267,
+  "local_path": "references/zkGPT-USENIXSecurity2025.pdf"
+}
